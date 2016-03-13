@@ -3,6 +3,7 @@ import java.io.FileReader;
 
 public class Sorting {
 
+	//set maximum
 	int maxPersons = 10000;
 	Person[] unSortedBest;
 	Person[] unSortedAvg;
